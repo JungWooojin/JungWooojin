@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=F0F8FF&height=150&section=header&text=Hello%20Welcome%20To%20WooJInHub!&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=E0FFFF&height=150&section=header&text=Hello%20Welcome%20To%20WooJInHub!&fontSize=40)
 #### 우진이의 허당끼가 넘치는 깃허브입니다. 
 #### 풀스택이 목표이고 백엔드 먼저 공부하고 있습니다~!
 
