@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=dee2e6&height=300&section=header&text=우진이의%20허당끼가%20넘치는%20깃허브입니다.&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=dee2e6&height=300&section=header&text=Hello%20I'm%20WooJin!&fontSize=40)
 #### 우진이의 허당끼가 넘치는 깃허브입니다. 
 #### 풀스택이 목표이고 백엔드 먼저 공부하고 있습니다~!
 
