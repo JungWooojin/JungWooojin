@@ -19,5 +19,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungWooojin&layout=compact)](https://github.com/JungWooojin/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungWooojin&show_icons=true&theme=radical)
 
