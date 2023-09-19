@@ -5,7 +5,7 @@
 
 📱SNS📱
 
- <img src="https://img.shields.io/badge/marushe#4444-5865F2?style=flat-square&logo=discord&logoColor=black"/> <img src="https://img.shields.io/badge/wash98@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white\"/>
+ <img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=marushe#4444&logoColor=black"/> <img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=wash98@naver.com&logoColor=white\"/>
 
 :books:Stack:books:
 
