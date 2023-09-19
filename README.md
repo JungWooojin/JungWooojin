@@ -2,7 +2,7 @@
 #### 우진이의 허당끼가 넘치는 깃허브입니다. 피드백 언제든지 환영합니다아~~★
 
 
-SNS:iphone:
+📱SNS📱
 
  <img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=black"/> <img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=whitek\"/>
 
