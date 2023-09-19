@@ -7,7 +7,7 @@ SNS
 
  <img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=black"/>
   <img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=whitek\"/>
-&nbsp; 
+ 
 
 
  
@@ -19,7 +19,7 @@ Studying
 <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
-&nbsp; 
+
 
 Tool 
 
